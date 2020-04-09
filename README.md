@@ -45,7 +45,7 @@ Representation Learning on Unit Ball with 3D Roto-TranslationalEquivariance [lin
 
 3D-Rotation-Equivariant Quaternion Neural Networks [link](https://arxiv.org/pdf/1911.09040.pdf)
 
-Pointwise Convolutional Neural Networks [link](Pointwise Convolutional Neural Networks)
+Pointwise Convolutional Neural Networks [link](https://arxiv.org/abs/1712.05245)
 
 
 
