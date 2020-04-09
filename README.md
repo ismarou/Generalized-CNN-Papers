@@ -12,7 +12,7 @@ OctNet: Learning Deep 3D Representations at High Resolutions [link](https://arxi
 
 A General Theory of Equivariant CNNs onHomogeneous Spaces [link](https://openreview.net/pdf?id=rkev0EHg8r)
 
-Roto-Translation EquivariantConvolution Networks for Medical Image Analysis [link] (https://imaging-in-paris.github.io/semester2019/slides/w3/Duits.pdf)
+Roto-Translation EquivariantConvolution Networks for Medical Image Analysis [link](https://imaging-in-paris.github.io/semester2019/slides/w3/Duits.pdf)
 
 Group Equivariant Convolutional Networks [link](https://arxiv.org/abs/1602.07576) (Group Equivariant Convolutional Networkssupplementary material [link](http://proceedings.mlr.press/v48/cohenc16.html) )
 
